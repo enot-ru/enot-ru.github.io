@@ -1,0 +1,260 @@
+@font-face {
+  font-family: MyriadPro-Regular;
+  src: local("MyriadPro-Regular");
+  src: url("../fonts/myriadpro-regular.otf");
+}
+@font-face{
+	font-family: MyriadPro-Bold;
+	src: local("MyriadPro-Bold");
+	src: url("../fonts/myriadpro-bold_0.otf")
+}
+@font-face {
+	font-family: Arial Bold;
+	src: local("Arial Bold");
+}
+ body {
+	color: #8f8f8f;
+	font: 12px Arial, sans-serif;
+	background-color: #fff;
+	margin: 0 auto;
+}
+#wrapper {
+	position: relative;
+	width: 960px;
+	margin: 0 auto;
+}
+header {
+	height: 130px;
+	background: #333333;
+}
+#header {
+	position: relative;
+	width: 960px;
+	margin: auto;
+}
+#header .logo  {
+	display: inline-block;
+	font: 55px MyriadPro-Bold, sans-serif;
+	color: #eeeeee;
+	text-decoration: none;
+	margin-top: 30px;
+	padding: 0;
+	float: left;
+}
+.top-menu {
+	position: absolute;
+	right: 0;
+	top: 10px;
+}
+nav a {
+	font: 14px Arial, sans-serif;
+	color: #fff;
+	text-decoration: none;
+}
+nav ul {
+	display: inline-block;
+	margin-top: 60px;
+	padding: 0;
+}
+nav li {
+	list-style-type: none;
+	float: left;
+	margin: 0px;
+}
+nav li:last-child {
+	margin-right: 0;
+	padding-left: 0;
+}
+nav .li1 {
+	margin: 0 10px 0 10px;
+}
+nav a:hover {
+	color: #00aeef;
+}
+.h1 {
+	width: 960px;
+	height: 210px;
+	margin: 0;
+	border-bottom: 4px dotted #cccccc;
+}
+h1 {
+	font: 60px MyriadPro-Bold, sans-serif;
+	color: #333333;
+	margin: 0 auto;
+	padding-top: 30px;
+	letter-spacing: -1px;
+}
+.colortext1 {
+	color: #00bff3;
+}
+h2 {
+	font: 50px/50px MyriadPro-Regular, sans-serif;
+	color: #bbbbbb;
+	margin: 0 auto;
+	padding: 0;
+	letter-spacing: -1px;
+}
+.h2 {
+	width: 960px;
+	height: 190px;
+	margin: 0;
+	border-bottom: 4px dotted #cccccc;
+}
+h3 {
+	font: 34px MyriadPro-regular, sans-serif;
+	color: #555555;
+	letter-spacing: -1px;
+}
+.services {
+	position: relative;
+	height: 450px;
+	margin: 0 auto;
+	border-bottom: 4px dotted #cccccc;
+}
+.service1 {
+	display: block;
+	width: 280px;
+	height: 350px;
+	position: absolute;
+	top: 40px;
+	text-align: center;
+	background-color: #00aeef;
+	box-shadow: 5px 5px 5px #c7c7c7;			/*тень*/
+}
+.service2 {
+	display: block;
+	width: 280px;
+	height: 350px;
+	position: absolute;
+	top: 40px;
+	text-align: center;
+	left: 340px;
+	background-color: #00aeef;
+	box-shadow: 5px 5px 5px #c7c7c7;			/*тень*/
+}
+.service3 {
+	display: block;
+	width: 280px;
+	height: 350px;
+	position: absolute;
+	top: 40px;
+	left: 680px;
+	text-align: center;
+	background-color: #00aeef;
+	box-shadow: 5px 5px 5px #c7c7c7;
+}
+h4 {
+	font: 40px MyriadPro-Regular, sans-serif;
+	color: #fff;
+	margin: 0 20px;
+	border-bottom: 2px dotted #fff;
+	letter-spacing: -1px;
+	padding: 15px 0;
+}
+.service11 p, .service21 p, .service31 p {
+	font: 14px Arial, sans-serif;
+	color: #fff;
+	margin: 0 auto;
+	padding: 25px;
+	letter-spacing: -1px;
+}
+.service12, .service22, .service32 {
+	width: 230px;
+	height: 40px;
+	position: absolute;
+	bottom: 35px;
+	left: 25px;
+	background-color: #0076a3;
+	box-shadow: inset 0 0 5px 0 #05455d;
+}
+.service12 a, .service22 a, .service32 a {
+	display: inline-block;
+	font: 18px MyriadPro-Regular, sans-serif;
+	color: #fff;
+	text-decoration: none;
+	letter-spacing: -1px;
+	line-height: 40px;			/*выравнивание текста по вертикали*/
+}
+.info {
+	position: relative;
+	height: 445px;
+	margin: 0 auto;
+}
+.testimonials {
+	display: block;
+	width: 480px;
+	height: 410px;
+	float: left;
+	margin: 35px 0 0 0;
+	border-right: 4px dotted #cccccc;
+}
+h5 {
+	font: 24px MyriadPro-Regular, sans-serif;
+	color: #555555;
+	margin: 10px 0 30px 0;
+}
+figure {
+	display: inline-block;
+	margin: 0 0 35px 0;
+	color: #555555;
+}
+figure img {
+	display: block;
+	border: 1px solid #fff;
+	outline: 1px solid #c9c9c9;
+	float: left;
+}
+
+figure figcaption {
+	font: 14px Arial, sans-serif;
+	margin-left: 110px;
+}
+.colortext3 {
+	display: block;
+	font: 14px Arial, sans-serif;
+	color: #29c5e6;
+}
+.colortext2 {
+	display: block;
+	font: 14px Arial Bold, sans-serif;
+	color: #555555;
+	font-weight: bold;
+	margin-top: 15px;
+}
+.feature {
+	display: block;
+	width: 430px;
+	height: 410px;
+	margin: 35px 5px 0 0;
+	float: right;
+}
+.feature h5 {
+	margin: 10px 0 20px 0;
+}
+h6 {
+	font: 20px Arial, sans-serif;
+	margin: 0 0 10px 0;	
+}
+.feature img {
+	border-color: #cccccc;
+	outline: none;
+	box-shadow: 2px 2px 2px 0 #cccccc;
+	margin-bottom: 20px;
+}
+.feature figcaption {
+	font: 14px Aria, sans-serif;
+	margin: 0;
+}
+.feature a {
+	display: inline-block;
+	font: 14px Arial, sans-serif;
+	color: #29c5e6;
+	text-decoration: none;
+	margin-top:20px;
+	
+}
+footer {
+	font: 16px Arial, sans-serif;
+	margin-top: 30px;
+	border-top: 4px dotted #cccccc;
+}

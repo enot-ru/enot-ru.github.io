@@ -17,7 +17,7 @@ The description of this service
 ```
 
 ## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+View this jekyll theme in action [here](http://landing-demo.ml)
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)

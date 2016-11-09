@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"false"
+			],
+			[
+				"eq",
+				"equalHeight"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"bg",
+				"background-position: "
+			],
+			[
+				"mar",
+				"margin-top: "
+			],
+			[
+				"bo",
+				"border-color: "
+			],
+			[
+				"p",
+				"padding-bottom: "
+			],
+			[
+				"co",
+				"content: "
+			],
+			[
+				"ma",
+				"margin: "
+			],
+			[
+				"pa",
+				"padding: "
+			],
+			[
+				"tr",
+				"transform: "
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"te",
+				"text-transform: "
+			],
+			[
+				"pad",
+				"padding-bottom: "
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mi",
+				"min-height: "
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"fo",
+				"font-weight: "
+			],
+			[
+				"col-md-off",
+				"col-md-offset-1"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"tra",
+				"transform: "
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"tex",
+				"text-align: "
+			],
+			[
+				"ba",
+				"background-image: "
+			],
+			[
+				"t",
+				"top: "
+			],
+			[
+				"l",
+				"line-height: "
+			],
+			[
+				"fon",
+				"font-family: "
+			],
+			[
+				"tran",
+				"transition: "
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"text",
+				"text-indent: "
+			],
+			[
+				"m",
+				"margin-bottom: "
+			],
+			[
+				"bor",
+				"border-bottom: "
+			],
+			[
+				"di",
+				"transition-duration: "
+			],
+			[
+				"bgc",
+				"background-color: "
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"sl",
+				"slideToggle\t.slideToggle()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"main",
+				"main-color"
+			],
+			[
+				"pd",
+				"padding-top: "
+			],
+			[
+				"hea",
+				"headers-color"
+			],
+			[
+				"ff",
+				"font-family: "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 743,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Gulp"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/jekyll/lanyon"
+	],
+	"file_history":
+	[
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/jd_5/_ready_html/sass/header.sass",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/jd_5/_ready_html/app/index.html",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/jd_5/_ready_html/sass/_vars.sass",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/jd_5/_ready_html/app/js/common.js",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/jd_5/_ready_html/sass/main.sass",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/jd_5/_ready_html/sass/fonts.sass",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/jd_5/_ready_html/sass/_media.sass",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/jd_5/_ready_html/app/css/fonts.min.css",
+		"/C/Documents and Settings/LinnikAV/Application Data/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Documents and Settings/LinnikAV/Application Data/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/LinnikAV/Application Data/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Documents and Settings/LinnikAV/Application Data/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/dj5/_ready_html/gulpfile.js",
+		"/C/Documents and Settings/LinnikAV/Local Settings/Temp/FreeCommander5668/2/gulpfile.js",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/doc.reg",
+		"/C/Documents and Settings/LinnikAV/Рабочий стол/Web/Jed_5/gulpfile.js",
+		"/J/Take/assets/less/pages/index.less",
+		"/J/Take/index.html",
+		"/C/Documents and Settings/LinnikAV/Application Data/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Documents and Settings/LinnikAV/Application Data/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"icons",
+			"h1",
+			"@import \"vars.sass\"",
+			"\"\n",
+			"#toggle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".toggle-mnu",
+			"toggle-mnu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "lanyon-project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}
